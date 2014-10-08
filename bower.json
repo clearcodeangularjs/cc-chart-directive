@@ -2,7 +2,7 @@
   "name": "chartDirecive",
   "description": "Highcharts chart directive",
   "authors": [
-  "ClearCode (http://clearcode.cc)",
+  "ClearCode (http://clearcode.cc)"
 ],
   "version": "1.0.0",
   "main": "script/directives/chart.js",
