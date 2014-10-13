@@ -70,7 +70,7 @@
     }
   };
 
-  angular.module('cc.chart.directive')
+  angular.module('cc.chart.directive', [])
     .directive('chart', function () {
       return {
         restrict: 'E',
