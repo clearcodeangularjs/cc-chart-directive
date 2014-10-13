@@ -5,6 +5,7 @@
   "ClearCode (http://clearcode.cc)"
 ],
   "version": "1.0.0",
+  "homepage":"http://plnkr.co/edit/ENOND07ASwwuGTE82tBn?p=preview",
   "main": "script/directives/chart.js",
   "ignore": [
     "**/.*",
