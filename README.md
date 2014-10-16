@@ -5,7 +5,7 @@ Adds chart using highcharts.
 
 Installation
 --------------
-TODO
+``` bower install clearcodeangularjs/cc-chart-directive --save ```
 
 
 Usage
